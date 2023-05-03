@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gymaholic App</string>
+    <string name="hello">Hello</string>
+    <string name="search_elements">Search elements</string>
+    <string name="exercises">Exercises</string>
+    <string name="workouts">Workouts</string>
+    <string name="progression">Progression</string>
+    <string name="history">History</string>
+    <string name="john">John</string>
+    <string name="search_workouts">Search Workouts</string>
+    <string name="search_exercises">Search Exercises</string>
+    <string name="add_workout">add workout</string>
+</resources>
